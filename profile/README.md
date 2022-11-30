@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://codenteq.com/wp-content/uploads/2022/11/web-logo.webp" width="300"></a></p>
+<p align="center"><a href="https://codenteq.com" target="_blank"><img src="https://codenteq.com/wp-content/uploads/2022/11/web-logo.webp" width="300"></a></p>
 
 ## About Codenteq Team
 
